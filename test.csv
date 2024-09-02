@@ -1,0 +1,11 @@
+Internal_Film_Thickness,Film_Stiffness,Manufacturer,Curing_Hardness,Pressure,Temperature,Window_Type,UV_Exposure,Display_Size,Module_Thickness,Quality_Score
+0.5,300,CompanyA,80,150000,25,Type1,150,24,1.2,85
+0.6,350,CompanyB,82,155000,27,Type2,160,24.5,1.3,88
+0.7,320,CompanyA,78,145000,23,Type1,140,23,1.1,80
+0.55,310,CompanyC,81,148000,26,Type3,155,25,1.2,84
+0.65,330,CompanyB,83,160000,28,Type2,165,24.8,1.4,90
+0.6,340,CompanyA,79,152000,24,Type1,150,24.2,1.3,87
+0.7,310,CompanyC,80,147000,22,Type3,140,23.5,1.1,82
+0.58,325,CompanyB,81,150000,26,Type2,160,25.2,1.2,85
+0.62,335,CompanyA,82,154000,27,Type1,155,24.5,1.3,89
+0.66,345,CompanyC,84,158000,29,Type3,170,24.8,1.4,92
